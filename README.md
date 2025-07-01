@@ -1,7 +1,6 @@
 # WishU
 
-Pinterest 감성 + 위시리스트 기능이 만난  
-나만의 취향 큐레이션 웹 서비스, WishU!
+Pinterest 감성 + 위시리스트 기능이 만난 나만의 취향 큐레이션 웹 서비스, WishU!
 
 ---
 
