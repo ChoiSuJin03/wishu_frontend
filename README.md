@@ -92,7 +92,7 @@ Pinterest 감성 + 위시리스트 기능이 만난
   유사한 상품을 탐색할 수 있으며,  <br/>
   <strong>키워드 기반 추천 방식</strong>으로 최종 구현되었습니다.
 </p>
-<img src="gifs/chatbot.gif" width="60%" alt="챗봇 추천">
+<img src="gifs/chatbot.gif" width="40%" alt="챗봇 추천">
 
 ---
 
