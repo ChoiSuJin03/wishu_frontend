@@ -35,7 +35,7 @@ Pinterest 감성 + 위시리스트 기능이 만난
 <p>
   이메일 주소를 기반으로 한 간편한 회원가입과 로그인 
 </p>
-  <img src="gifs/login_register.png" width="60%" alt="회원가입 및 로그인"> <img src="gifs/login_register2.png" width="60%" alt="회원가입 및 로그인">
+  <img src="gifs/login_register.png" width="20%" alt="회원가입 및 로그인"> <img src="gifs/login_register2.png" width="20%" alt="회원가입 및 로그인">
 </div>
 
 ---
@@ -53,26 +53,16 @@ Pinterest 감성 + 위시리스트 기능이 만난
 
 ---
 
-### 3. 상품 등록
-
-<div align="center">
-<p>
-  사용자가 직접 상품 정보를 입력하여 등록할 수 있는 화면입니다.  
-  이미지, 제목, 가격, 설명을 작성하고 태그 및 카테고리를 지정할 수 있습니다.
-</p>
-  <img src="gifs/product_upload.gif" width="60%" alt="상품 등록">
-</div>
-
----
-
-### 4. 상품 상세 페이지
+### 3. 상품 등록 및 상세 페이지
 
 <div align="center">
   <p>
-  등록된 상품의 상세 정보(이미지, 브랜드, 가격 등)를 확인할 수 있으며,  
-  좋아요, 댓글, 외부 링크 이동, 북마크 저장 등의 인터랙션이 가능합니다.
-</p>
-  <img src="gifs/product_detail.gif" width="60%" alt="상품 상세보기">
+    사용자가 직접 상품 정보를 입력하여 등록할 수 있는 화면입니다.  <br/>
+    이미지, 제목, 가격, 설명을 작성하고 태그 및 카테고리를 지정할 수 있습니다.  <br/><br/>
+    등록된 상품은 상세 페이지에서 이미지, 브랜드, 가격 등의 정보를 확인할 수 있으며,  <br/>
+    좋아요, 댓글, 외부 링크 이동, 북마크 저장 등의 인터랙션이 가능합니다.
+  </p>
+  <img src="gifs/product_upload.gif" width="45%" alt="상품 등록" style="margin-right: 10px;">
 </div>
 
 ---
