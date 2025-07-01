@@ -35,7 +35,7 @@ Pinterest 감성 + 위시리스트 기능이 만난
 <p>
   이메일 주소를 기반으로 한 간편한 회원가입과 로그인 
 </p>
-  <img src="gifs/login_register.png" width="20%" alt="회원가입 및 로그인"> <img src="gifs/login_register2.png" width="20%" alt="회원가입 및 로그인">
+  <img src="gifs/login_register.png" width="30%" alt="회원가입 및 로그인"> <img src="gifs/login_register2.png" width="30%" alt="회원가입 및 로그인">
 </div>
 
 ---
